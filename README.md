@@ -1,4 +1,4 @@
-# MissionToMars
+# Mission To Mars
 In this assignment, we  built a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
 
 Enjoy this web scraper which is OUT OF THIS WORLD! Scrape data from up-to-date NASA sites to get everything Mars!
